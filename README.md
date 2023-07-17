@@ -7,3 +7,7 @@ A webapp based on football-data.org API
 - Axios
 - Tailwind
 - Openstreetmap
+
+## Todo list
+
+[TODO.md](./TODO.md)
