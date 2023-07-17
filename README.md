@@ -1,8 +1,9 @@
 # Flog-players
 A webapp based on football-data.org API
 
-## Techos used 
+## Technos used 
 - Vite + React
+- React Router 6
 - Axios
 - Tailwind
 - Openstreetmap
